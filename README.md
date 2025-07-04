@@ -1,1 +1,1 @@
-[Link on Page](vladrevucki.github.io/Aivazovski_page/)
+[Link on Page](https://vladrevucki.github.io/Aivazovski_page/)
