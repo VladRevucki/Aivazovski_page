@@ -1,0 +1,32 @@
+.portfolio {
+    background-color: var(--bg-main-grey);
+    text-align: center;
+    padding: 80px 20px 100px;
+    color: var(--color-main-black);
+}
+
+.portfolio-title {
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.portfolio-picture {
+    margin: 75px 0 40px;
+    width: min(100%, 950px);
+    height: min(100%, 630px);
+    object-fit: contain;
+}
+
+.portfolio-description {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+@media (max-width: 480px) {
+    .portfolio-picture {
+        margin: 50px 0 30px;
+    }
+    .portfolio-description {
+        font-size: 14px;
+    }
+}
